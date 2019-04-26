@@ -1,0 +1,29 @@
+﻿The Komodo Cafe is getting a new menu. 
+
+Be able to	create a menu item
+			delete a menu item
+			list all items on menu 
+			console app
+
+Each menu items will contain:
+meal number so employees can say "I'll have the #5" 
+meal name
+description
+list of ingredients meal
+price
+
+Your task is to do the following:
+1. Create a Menu class with properties, constructors, and fields.
+
+2. Create a MenuRepository class that has methods needed.
+
+3. Create Test Class for repository methods. (You don't need to test
+your constructors or objects. Just the methods.)
+
+4. Create a Program file that allows the restaurant manager to:
+add
+delete
+see all items in the menu list.
+
+Notes:
+We don't need to update the items right now.
